@@ -1,0 +1,16 @@
+body{font-family:'Poppins', sans-serif;
+margin:0}
+span{color:orange}
+section{display:flex}
+.haif-width{width:50%;padding-left: 5%}
+.haif-width img{width: 50%}
+.link{text-decoration:none;
+background-image:linear-gradient(orange,tomato);
+padding:10px 40px;
+color:white;
+font-weight:700;
+border-radius:5px}
+.top-banar{
+	background-image:url(img/top-banner.png);
+	background-repeat:no-repeat
+}
